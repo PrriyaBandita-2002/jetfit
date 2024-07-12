@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+fetchData
 # production
 /build
 
